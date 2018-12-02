@@ -4,5 +4,5 @@ Simple starter files for getting small Ruby programs up and running quickly.
 
 * RSpec for testing.
 * Guard for watching tests.
-* Pry console for testing.
-* Main executable for quickfire running of the code entrypoint.
+* `bin/console` - a Pry console for debugging.
+* `bin/main` - an executable for quickfire running of the code entrypoint.

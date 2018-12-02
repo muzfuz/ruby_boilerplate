@@ -1,3 +1,3 @@
-describe Main do
+describe App do
   # test stuff
 end

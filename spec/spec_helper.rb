@@ -1,4 +1,4 @@
-require_relative "../lib/main.rb"
+require_relative "../lib/app.rb"
 
 RSpec.configure do |config|
   config.expect_with :rspec do |expectations|
